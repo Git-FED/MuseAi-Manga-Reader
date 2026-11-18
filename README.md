@@ -1,5 +1,7 @@
 # Muse AI Manga — static upgrade
 
+<img width="1271" height="898" alt="Screenshot 2026-11-17 173031" src="https://github.com/user-attachments/assets/b564788d-aedc-4bfe-8807-4af4d238f890" />
+
 A self-contained dark manga discovery and TTS-first static site intended for GitHub Pages or Cloudflare Pages/Workers. No Manus-hosted deployment and no GitHub repository are created by this package.
 
 ## Included
